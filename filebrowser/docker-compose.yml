@@ -1,0 +1,14 @@
+---
+version: "3.6"
+services:
+  filebrowser:
+    image: filebrowser/filebrowser
+    container_name: filebrowser
+    ports:
+      - "8888:80"
+    volumes:
+      - ./filebrowser:/srv
+      - ./filebrowser/filebrowser.db:/database.db
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true

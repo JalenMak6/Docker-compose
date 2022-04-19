@@ -1,0 +1,1 @@
+filebrowser is a helpful open source application which provides a file managing interface with a specified directory. You can upload, delete and shares the files to your friends/your own. You can also create multiple users and have their specific directories for file management.
