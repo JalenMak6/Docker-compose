@@ -12,6 +12,8 @@ services:
       disable: true
     environment:
       - TZ=America/Vancouver
+    volumes:
+      - ./config:/config
     depends_on:
       - redis
 
