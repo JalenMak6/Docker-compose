@@ -1,0 +1,8 @@
+users:
+  jalen:
+    displayname: "Jalen Mak"
+    password: "$argon2id$v=19$m=65536,t=3,p=4$N3ZvQVBSWjIybUxHVkZtdA$kmWZWp+sARpncM5x4du1b5E8/ilJbwjrwuSERdCwlqo"
+    email: jalenmakany@gmail.com
+    groups:
+      - admin
+      - prod
