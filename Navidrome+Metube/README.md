@@ -1,5 +1,6 @@
-This is a little project with the open-source software Navidrome and Metube combined together, along with Authelia for authentication,
+This is a little project with an open-source software Navidrome and Metube combined together, along with Authelia for authentication,
 it provides a Web UI to download your favoruite music into the music server.
+
 <img width="1000" alt="Screen Shot 2022-07-02 at 8 49 53 PM" src="https://user-images.githubusercontent.com/96213845/177023798-c1b54ec3-b140-46ca-96c1-673117782d00.png">
 <img width="1000" alt="Screen Shot 2022-07-02 at 8 50 30 PM" src="https://user-images.githubusercontent.com/96213845/177023811-d92205db-4178-4594-9ab4-82aa5f6ab57e.png">
 
