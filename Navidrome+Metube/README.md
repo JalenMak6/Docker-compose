@@ -9,6 +9,9 @@ Authelia is an open-source authentication and authorization server
 It provides the identity and access management (IAM) role of information security in providing multi-factor authentication and single sign-on (SSO) for your applications via a web portal.
 The reason I use Authelia is to prevent unauthorized user to access the WEB UI and downlaod random songs to my music server.
 
+When you go to metube.yourdomain.com, it will redirect to authelia.yourdomain.com to do authentication
+Once you are authenticated , you are able to access metube WEB UI.
+
 <img width="1096" alt="Screen Shot 2022-07-02 at 8 50 54 PM" src="https://user-images.githubusercontent.com/96213845/177023821-0374d7ef-8e4c-4c31-aca0-369c8b51d6b4.png">
 <img width="795" alt="Screen Shot 2022-07-02 at 8 51 11 PM" src="https://user-images.githubusercontent.com/96213845/177023831-c8817f24-1fc4-4074-a2a3-d372fefc4777.png">
 
